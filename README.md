@@ -35,7 +35,7 @@ Districts or block groups are the smallest geographical units for which the US C
 ### Project Guidelines :
 
 #### 1. Load the data :
-* Read the “housing.csv” file from the folder into the program.
+* Read the “housing.xlsx” file from the folder into the program.
 * Print first few rows of this data.
 * Extract input (X) and output (Y) data from the dataset.
 
